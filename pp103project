@@ -1,0 +1,16 @@
+# Grid example character picture grid pp 103
+
+grid = [['.','.','.'],
+		['x','x','x'],
+		['.','.','.']]
+
+# we want gridup to look like:
+# .x.
+# .x.
+# .x.
+
+for i in grid:
+	print(i)
+
+	
+

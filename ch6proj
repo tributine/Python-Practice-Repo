@@ -1,0 +1,10 @@
+# table printer
+
+tableData = [['apples', 'oranges', 'cherries', 'banana'],
+              ['Alice', 'Bob',]]
+
+def printTable(table)
+  ' '.join(table)
+  print(table)
+
+printTable(tableData)
